@@ -4874,10 +4874,10 @@ launch-editor@^2.2.1:
     chalk "^2.3.0"
     shell-quote "^1.6.1"
 
-lazyer-ui-1@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.npm.taobao.org/lazyer-ui-1/download/lazyer-ui-1-0.0.1.tgz#8a0213d34ede2b98292d6208982242caa3d4b6ca"
-  integrity sha1-igIT007eK5gpLWIImCJCyqPUtso=
+lazyer-ui-1@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.npm.taobao.org/lazyer-ui-1/download/lazyer-ui-1-0.0.2.tgz#296e8797d1b51ad5b780d82ffff6a900c118dc49"
+  integrity sha1-KW6Hl9G1GtW3gNgv//apAMEY3Ek=
   dependencies:
     github-markdown-css "^4.0.0"
     marked "^1.2.0"
