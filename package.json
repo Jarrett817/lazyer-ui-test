@@ -14,7 +14,7 @@
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0-0",
-    "lazyer-ui-1": "^0.0.8"
+    "lazyer-ui-1": "^0.0.9"
   },
   "_id": "lazyer-ui-test@0.1.0",
   "readme": "ERROR: No README data found!"

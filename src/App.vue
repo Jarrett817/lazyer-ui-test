@@ -11,9 +11,9 @@
     <br/>
     <h3>设置大小</h3>
     <li>
-      <LazyerButton theme="link" size="big">bigSize</LazyerButton>
-      <LazyerButton theme="link">default</LazyerButton>
-      <LazyerButton size="small" theme="link">small</LazyerButton>
+      <LazyerButton  size="big">bigSize</LazyerButton>
+      <LazyerButton >default</LazyerButton>
+      <LazyerButton size="small" >small</LazyerButton>
     </li>
     <br/>
     <h3>设置状态</h3>
@@ -95,6 +95,7 @@
       <LazyerTabs v-model:selected="chosen">
         <LazyerTabsItem title="导航一">内容一</LazyerTabsItem>
         <LazyerTabsItem title="导航二">内容二</LazyerTabsItem>
+        <LazyerTabsItem title="这是导航二">内容二</LazyerTabsItem>
       </LazyerTabs>
     </li>
     <br/>
